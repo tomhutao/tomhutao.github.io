@@ -33,7 +33,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://tomhutao.github.io/|| Github || '#24292e'
+  fab fa-github: https://tomhutao.icu/|| Github || '#24292e'
   fas fa-envelope: https://icutaotao122.top || Email || '#4a7dbe'
   fas fa-poo: https://mp.weixin.qq.com/s/b30zxZg1btONXC6GxG2EUg || '#49B202'
   # fas fa-phone: https://www.baidu.com/ ||  '#5a6141'
@@ -920,7 +920,7 @@ inject:
   bottom:
     # - <div class="aplayer no-destroy" data-id="60198" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
     # - <div class="aplayer no-destroy" data-id="541236080" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
-    - <div class="aplayer no-destroy" data-id="26688672" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true"  data-listFolded="false" data-preload="none" data-autoplay="true" muted> </div>
+    - <div class="aplayer no-destroy" data-id="541236080" data-server="netease" data-type="playlist" data-fixed="true" data-mini="true"  data-listFolded="false" data-preload="none" data-autoplay="true" muted> </div>
 
 # CDN
 # Don't modify the following settings unless you know how they work
