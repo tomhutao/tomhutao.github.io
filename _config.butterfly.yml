@@ -33,7 +33,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://tomhutao.icu/|| Github || '#24292e'
+  fab fa-github: https://tomhutao.asia/|| Github || '#24292e'
   fas fa-envelope: https://icutaotao122.top || Email || '#4a7dbe'
   fas fa-poo: https://mp.weixin.qq.com/s/b30zxZg1btONXC6GxG2EUg || '#49B202'
   # fas fa-phone: https://www.baidu.com/ ||  '#5a6141'
